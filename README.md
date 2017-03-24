@@ -12,3 +12,6 @@
    * core.js        - Core modules
    * prompPerson.js - Collecting information with Readline
    * BenFranklin.js - Handling events with EventEmitter
+   * BFexport.js    - Exporting custom modules
+   * ### lib
+     * Person.js    - Custom module
