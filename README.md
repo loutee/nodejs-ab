@@ -1,4 +1,5 @@
-# Files from following the Node.js Essential Training tutorial by Alex Banks
+# nodejs-ab
+  Files from following the Node.js Essential Training tutorial by Alex Banks
 
 ## node-core
 
@@ -9,9 +10,10 @@
 
 ## node-modules
 
-   * core.js        - Core modules
-   * prompPerson.js - Collecting information with Readline
-   * BenFranklin.js - Handling events with EventEmitter
-   * BFexport.js    - Exporting custom modules
-   * ### lib
-     * Person.js    - Custom module
+  * core.js        - Core modules
+  * prompPerson.js - Collecting information with Readline
+  * BenFranklin.js - Handling events with EventEmitter
+  * BFexport.js    - Exporting custom modules
+  * ### lib
+    * Person.js    - Custom module
+  * exec.js        - Creating child process with exec
