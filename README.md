@@ -23,3 +23,4 @@
 ## file-system
 
   * list.js          - Listing directory files
+  * read.js          - Reading files
