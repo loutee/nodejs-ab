@@ -26,3 +26,5 @@
   * read.js          - Reading files
   * create.js        - Writing and appending files
   * directory.js     - Directory creation
+  * rename.js        - Renaming files
+  * remove.js        - Removing files
