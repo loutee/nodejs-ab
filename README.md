@@ -24,3 +24,4 @@
 
   * list.js          - Listing directory files
   * read.js          - Reading files
+  * create.js        - Writing and appending files
