@@ -29,3 +29,4 @@
   * rename.js        - Renaming files
   * remove.js        - Removing files
   * directories.js   - Renaming and removing directories
+  * streams.js       - Readable file streams
