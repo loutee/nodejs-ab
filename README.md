@@ -31,3 +31,7 @@
   * directories.js   - Renaming and removing directories
   * streams.js       - Readable file streams
   * promptPerson.js  - Writeable file streams
+
+## http-module
+
+  * request.js       - Making a request
