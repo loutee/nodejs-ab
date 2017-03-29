@@ -28,3 +28,4 @@
   * directory.js     - Directory creation
   * rename.js        - Renaming files
   * remove.js        - Removing files
+  * directories.js   - Renaming and removing directories
