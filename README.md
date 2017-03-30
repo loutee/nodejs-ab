@@ -39,3 +39,7 @@
   * fileserver.js    - Serving files
   * api.js           - Serving JSON data
   * formserver.js    - Collecting POST data
+
+## node-package-manager
+
+ * app.js            - Installing npms globally
