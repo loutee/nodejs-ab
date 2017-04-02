@@ -42,9 +42,13 @@
 
 ## node-package-manager
 
- * app.js            - Installing npms globally
+  * app.js            - Installing npms globally
 
 ## web-servers
 
- * package.json      - The package.json file
- * app.js            - Intro to Express, Express routing and CORS, Express post bodies and params
+  * package.json      - The package.json file
+  * app.js            - Intro to Express, Express routing and CORS, Express post bodies and params
+
+## web-sockets
+
+  * ws.js             - Creating a WebSocket server
