@@ -52,3 +52,4 @@
 ## web-sockets
 
   * ws.js             - Creating a WebSocket server, Broadcasting messages with WebSockets
+  * socket-io         - Creating WebSockets with Socket.IO
