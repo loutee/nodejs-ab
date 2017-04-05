@@ -53,3 +53,7 @@
 
   * ws.js             - Creating a WebSocket server, Broadcasting messages with WebSockets
   * socket-io         - Creating WebSockets with Socket.IO
+
+## testing-and-debugging
+
+  * tools-spec.js     - Testing with mocha and Chai
