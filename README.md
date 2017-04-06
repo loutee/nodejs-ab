@@ -56,4 +56,4 @@
 
 ## testing-and-debugging
 
-  * tools-spec.js     - Testing with mocha and Chai
+  * tools-spec.js     - Testing with mocha and Chai, Asynchronous mocha testing
