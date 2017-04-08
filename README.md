@@ -57,3 +57,4 @@
 ## testing-and-debugging
 
   * tools-spec.js     - Testing with mocha and Chai, Asynchronous mocha testing, Mocking a server with Nock
+  * order-spec.js     - Injecting dependencies with rewire
