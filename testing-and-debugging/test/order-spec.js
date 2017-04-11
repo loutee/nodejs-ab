@@ -1,3 +1,5 @@
+/* istanbul cover _mocha */
+
 var expect = require('chai').expect;
 var rewire = require('rewire');
 
