@@ -59,3 +59,7 @@
   * tools-spec.js     - Testing with mocha and Chai, Asynchronous mocha testing, Mocking a server with Nock
   * order-spec.js     - Injecting dependencies with rewire, Advanced testing Sinon spies, Advance testing Sinon stubs, Code coverage with Istanbul
   * supertest/        - Testing HTTP endpoints with Supertest, Checking server responses with Cheerio
+
+## automation-and-deployment
+
+  * Gruntfile.js     - Hinting your code with Grunt
