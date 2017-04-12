@@ -45,7 +45,7 @@ body dl:empty + p {
 body dl dt {
   font-family: fantasy, sans-serif;
   font-size: 1.5em;
-  color: darkslateblue;
+  color: red;
 }
 body dl dt:hover {
   color: red;
@@ -57,7 +57,7 @@ body dl dd {
   font-size: 1em;
 }
 body form {
-  background-color: darkslateblue;
+  background-color: red;
   color: white;
   padding: 1em;
   width: 80%;
