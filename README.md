@@ -63,3 +63,4 @@
 ## automation-and-deployment
 
   * Gruntfile.js     - Hinting your code with Grunt, Converting LESS to CSS with Grunt, Bundling client scripts with Browserify, Rapid development with Grunt Watches
+  * package.json     - Automation with npm
