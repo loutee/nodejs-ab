@@ -4,6 +4,9 @@
   "description": "A collection of skier terms and definitions",
   "main": "app.js",
   "scripts": {
+    "predebug": "grunt",
+    "debug": "firefox localhost:3000 & firefox localhost:8080/debug?port=5858",
+    "postdebug": "node-inspector & node --debug app",
     "prestart": "grunt",
     "start": "node app",
     "predev": "grunt",
